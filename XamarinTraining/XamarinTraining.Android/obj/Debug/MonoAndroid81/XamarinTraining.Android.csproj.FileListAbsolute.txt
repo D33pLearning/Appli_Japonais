@@ -108,7 +108,9 @@ C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Andr
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\android\assets\XamarinTraining.pdb
+C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\res\drawable\ayumi.png
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\bin\Debug\XamarinTraining.Android.dll
+C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\linksrc\XamarinTraining.pdb
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\linksrc\XamarinTraining.Android.dll.mdb
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\Jerem\source\repos\XamarinTraining\XamarinTraining\XamarinTraining.Android\obj\Debug\MonoAndroid81\linksrc\Prism.dll.mdb

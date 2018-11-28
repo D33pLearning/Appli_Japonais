@@ -6,15 +6,19 @@
              x:Class="XamarinTraining.Views.CoursesContentPage">
 
   <StackLayout >
+        <FlexLayout Direction="Column" JustifyContent="SpaceEvenly">
+            <Image
+                Source="Ayumi.png"
+                WidthRequest="300"
+                HeightRequest="300"
+                HorizontalOptions="Center"
+               >
+            </Image>
+            <Label FontSize="Medium" Text="{Binding Hiragana}" HorizontalTextAlignment="Center"></Label>
+        </FlexLayout>
 
-   <Image
-       Source="sakura.png"
-       ScaleX="0.5"
-       ScaleY="0.5"
-       >
-    </Image>
-    <Label Text="{Binding Hiragana} " HorizontalTextAlignment="Center"></Label>
 
-  </StackLayout>
+
+    </StackLayout>
 
 </ContentPage>
