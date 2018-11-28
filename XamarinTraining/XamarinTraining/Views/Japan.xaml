@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="XamarinTraining.Views.Japan">
+
+  <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+    <Label Text="Exercice 1" FontSize="Large"></Label>
+    <Label Text="{Binding Exercice}" VerticalOptions="Start" FontSize="Small"/>
+    <Label Text="{Binding Katakana}"/>
+    <Button Text="Katakana" VerticalOptions="Start" FontSize="Small" Clicked="ButtonKatakana_Clicked"></Button>
+    <Button Text="Hiragana" VerticalOptions="Start" FontSize="Small" Clicked="ButtonHiragana_Clicked"></Button>
+    <Label x:Name="LabelResult" FontSize="Small" />
+  </StackLayout>
+  
+</ContentPage>

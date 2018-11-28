@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTraining.Views.MainPage"
+             Title="Menu"
+             BackgroundColor="White"
+             >
+
+  <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+
+    <Button
+      Text="Courses"
+      TextColor="Red"
+      Image="japan.png"
+      BackgroundColor="White"
+      WidthRequest="150"
+      HeightRequest="75"
+      HorizontalOptions="Center"
+      Command="{Binding NavigateToSpeakPageCommand2}"
+      FontFamily="Palatino Linotype"
+      FontSize="Micro"
+     />
+    <Button
+      Text="Exercices"
+      TextColor="Red"
+      Image="sword.png"
+      BackgroundColor="White"
+      WidthRequest="150"
+      HeightRequest="75"
+      HorizontalOptions="Center"
+      Command="{Binding NavigateToSpeakPageCommand}"
+      FontFamily="Palatino Linotype"
+      FontSize="Micro"
+     />
+    <Button
+      Text="Hiragana"
+      TextColor="Red"
+      Image="koinobori.png"
+      BackgroundColor="White"
+      WidthRequest="150"
+      HeightRequest="75"
+      HorizontalOptions="Center"
+      Command="{Binding NavigateToSpeakPageCommand3}"
+      FontFamily="Palatino Linotype"
+      FontSize="Micro"
+     />
+
+  </StackLayout>
+
+</ContentPage>
